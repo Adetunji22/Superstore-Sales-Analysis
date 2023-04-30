@@ -14,4 +14,4 @@ ABOUT THE DATASETS:
      
      first, we create a table containing our dataset!
      
-     
+     ![create table](https://github.com/Adetunji22/us_superstore_dataset/blob/main/table.png)
