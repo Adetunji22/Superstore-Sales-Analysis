@@ -14,4 +14,4 @@ ABOUT THE DATASETS:
      
      first, we create a table containing our dataset!
      
-     ![table](https://user-images.githubusercontent.com/127019986/235351786-a0f62548-b267-45f6-a7e0-24463f027be2.jpg)
+     
