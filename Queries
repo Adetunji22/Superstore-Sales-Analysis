@@ -44,8 +44,8 @@ select * from US_superstore;
   from US_superstore group by Category order by profits asc limit 1);
   
 3.     -----------the top 5 subcategories with the highest revenue
-  select Sub_Category, cast(sum(sales) as money)as revenues
-  from US_superstore group by Sub_Category order by revenues desc limit 5;
+ select Category, Sub_Category, cast(sum(sales) as money)as revenues
+  from US_superstore group by Category,Sub_Category order by revenues desc limit 5;
   
 4.        ------most profitable/least profitable subcategory
   (select Sub_Category, cast(sum(Profit)as money)as profits
