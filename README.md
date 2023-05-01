@@ -12,9 +12,4 @@ ABOUT THE DATASETS:
 The following Business questions was analyzed to give insight about the datasets.
      
      
-first, we create a table containing our dataset!
-     
- 
-![table](https://user-images.githubusercontent.com/127019986/235353297-900f950b-bad7-413a-9c69-086bf48f3213.png)
-
-
+1. **what is the total amount of revenue generated for each category** 
