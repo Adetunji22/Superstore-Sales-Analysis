@@ -1,13 +1,15 @@
 # us_superstore_dataset
 
-INTRODUCTION:
+**INTRODUCTION** :
 
-ABOUT THE SUPERSTORE.
+**ABOUT THE SUPERSTORE**.
   The superstore is a retail business located in the united states, it allows people to buy products in furnitures, technology,office supplies and their customers are the mass consumer, corporate and home offices.
 
-ABOUT THE DATASETS:
+**ABOUT THE DATASETS** :
    the datasets contains 9994 rows and 21 columns containing the sales, profits, discounts and geographical information of customers, and their order details.
-    Our task is to analyse the sales data and identify weak areas and opportunities for superstore to boost business growth. and the tool used to analyze this dataset is the SQL(POSTGRE)
+    Our task is to analyse the sales data and identify weak areas and opportunities for superstore to boost business growth. [here](https://www.kaggle.com/datasets/juhi1994/superstore) is the link to the dataset
+ 
+ **Tools Used**:The dataset is analyzed and visualized using postgresql and tableau.
      
 The following Business questions was analyzed to give insight about the datasets.
      
