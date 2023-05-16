@@ -42,6 +42,10 @@ The following Business questions was analyzed to give insight about the datasets
       
 9.  **what are the top 2 revenue generating subcategories in each region?**
      ![superstore9](https://user-images.githubusercontent.com/127019986/235486627-211bf014-7d88-4bac-9f34-3ac84ea6867d.png)
+  
+ 10. **Year over year revenue percentage change**
+      ![yoy](https://github.com/Adetunji22/us_superstore_dataset/assets/127019986/3453e94d-bd13-4acf-9325-e7f8cc6d5b2f)
+
 
 
 
