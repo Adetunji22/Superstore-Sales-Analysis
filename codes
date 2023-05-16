@@ -102,4 +102,13 @@ select * from US_superstore;
 	 rank()over(partition by region order by cast(sum(sales)as money)desc)as revenue_rank from US_superstore 
 	 group by region, Sub_Category )
 	    select * from T2 where revenue_rank<3
+	    
+ 10.   -- year over year revenue pct change
+    with yoy as(
+select extract(year from order_date)as years, sum(sales)::money as revenue,
+lag(sum(sales))over(order by extract(year from order_date) )::money as previous_revenue
+from US_superstore group by years order by years)
+select years, revenue, previous_revenue,
+(((revenue-previous_revenue)/previous_revenue)*100)as year_over_year_pct_change
+from yoy
 	 
