@@ -56,6 +56,11 @@ The following Business questions was analyzed to give insight about the datasets
       ![yoy](https://github.com/Adetunji22/us_superstore_dataset/assets/127019986/3453e94d-bd13-4acf-9325-e7f8cc6d5b2f)
 
 **OBSERVATIONS AND RECOMMENDATIONS**
- 1.  
+ 1.  it is not surprising that technology which generates the highest revenue also generates the highest profit and also having a profit percentage of about 17.40% indicating a relatively good level of profitability, therefore the superstore should continue to invest in this segment by staying updated with the latest technological trends, but despite the furniture category having more revenue than the office supplies, it is perfoming poorly in terms of profitability having a profit percentage of just 
+  2.49%, therefore the superstore should consider identifying areas of improvement such as negotiating better deals with suppliers, evaluating pricing strategies and market demands. both the tecnology and office supplies are performing relatively better in terms of profitability.
+
+2. the superstore needs to establish a strong marketing approach in cities having just $0-$10 dollars in terms  of revenue, like conducting market reseacrch and analysis to understand the reason behind low sales, focus on enhancing customer experience and exploring partnerships with local businesses or influencers in those cities
+
+3. there is significant improvement in profits over the years, profits keeps increasing year on year, whereas in terms of  revenue there is a -2.8% decrease in revenue from 2014-2015, but a huge increase in revenue from 2015-2016 by 29.5% and 20.3% increase in revenue from 2016-2017.
 
 
