@@ -42,7 +42,12 @@ select * from US_superstore;
   UNION
     (select Category, cast(sum(Profit)as money)as profits
   from US_superstore group by Category order by profits asc limit 1);
-  
+2b.  ----calculating the profit percentage for each category
+  with temp as(
+select category, sum(sales)::money as revenue, sum(profit)::money as profits
+from us_superstore group by category )
+ select *, round((profits::numeric/revenue::numeric)*100,2) as profit_percentage from temp
+
 3.     -----------the top 5 subcategories with the highest revenue
  select Category, Sub_Category, cast(sum(sales) as money)as revenues
   from US_superstore group by Category,Sub_Category order by revenues desc limit 5;
