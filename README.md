@@ -21,6 +21,9 @@ The following Business questions was analyzed to give insight about the datasets
 2. **which of the category is most profitable and which has low profitability?**
         ![superstore2](https://user-images.githubusercontent.com/127019986/235477513-83b726b2-3295-4605-bdf2-86a33c43503a.png)
         ![Dashboard 1](https://github.com/Adetunji22/us_superstore_dataset/assets/127019986/4798de5a-f33c-4b42-b12a-045f8385062a)
+ b.  **Finding the profit percentage of each category**
+        ![profit percentage](https://github.com/Adetunji22/us_superstore_dataset/assets/127019986/ad4211d6-b703-43f1-ab68-085c368bcd2f)
+
 
 3. **what are the top 5 subcategories with the highest revenue?**
     ![top5](https://user-images.githubusercontent.com/127019986/235482008-945d59f2-03eb-4061-8bff-aaf44f056e2f.png)
@@ -52,6 +55,7 @@ The following Business questions was analyzed to give insight about the datasets
  10. **Year over year revenue percentage change**
       ![yoy](https://github.com/Adetunji22/us_superstore_dataset/assets/127019986/3453e94d-bd13-4acf-9325-e7f8cc6d5b2f)
 
-
+**OBSERVATIONS AND RECOMMENDATIONS**
+ 1.  
 
 
