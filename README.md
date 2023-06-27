@@ -7,11 +7,14 @@
 
 **ABOUT THE DATASETS** :
    the datasets contains 9994 rows and 21 columns containing the sales, profits, discounts and geographical information of customers, and their order details.
-    Our task is to analyse the sales data and identify weak areas and opportunities for superstore to boost business growth. [here](https://www.kaggle.com/datasets/juhi1994/superstore) is the link to the dataset
+
+   **OBJECTIVES**
+
+Our task is to analyse the sales data and identify weak areas and opportunities for superstore to boost business growth. [here](https://www.kaggle.com/datasets/juhi1994/superstore) is the link to the dataset
  
  **Tools Used**:The dataset is analyzed and visualized using postgresql and tableau.
      
-The following Business questions was analyzed to give insight about the datasets.
+The following Business questions were analyzed to give insight about the datasets.
      
      
 1. **what is the total amount of revenue generated for each category?** 
